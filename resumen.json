@@ -1,0 +1,9 @@
+{
+    "banco": "South Park Bank",
+    "sucursal": "",    
+    "titular": "Toallin",
+    "nro_cuenta": "420/420",    
+    "saldo": [ { "moneda": "USD", "monto": 725.09 }, { "moneda": "EUR", "monto": 195.67} ],
+    "cbu": "1562244781396451",
+    "abierto": "19/05/1997"
+}
